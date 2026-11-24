@@ -43,7 +43,7 @@ At Tarq, development was AI-driven: I used Claude Code and Codex to generate cod
 | Period | Where | What I did |
 | --- | --- | --- |
 | 07/2026 – 11/2026 | **Tarq** · AI applied to logistics | Mid-level Full Stack Developer. Monorepo with React Native, React and Python; booking automation, WhatsApp chatbot with handoff to human agents (on an n8n-style flow platform) and computer vision. |
-| 02/2024 – 04/2026 | **Belagrícola** | Developer. Sole developer of the Flutter app and of the Vue.js + TypeScript front end for the pricing, sales order and customer service platforms; Java/Spring Boot APIs and PostgreSQL database from 2025; drawing of fields and areas on maps. |
+| 02/2024 – 04/2026 | **Belagrícola** | Developer. Sole developer of the Flutter app; on the Vue.js + TypeScript front end, started in a small team and became the sole developer halfway through. Pricing, sales order and customer service platforms; Java/Spring Boot APIs and PostgreSQL database from 2025; drawing of fields and areas on maps. |
 | 12/2021 – 02/2024 | **Farmbits** · Belagrícola Group | IT Assistant / Developer. Lead developer of the Flutter app and the Vue.js front end; code review, coding standards and technical mentoring. |
 | 05/2021 – 12/2021 | **Farmbits** | Front-end Development Intern. Web and mobile interfaces with Flutter, Vue.js and TypeScript. |
 | 2020 – 2021 | **UNOPAR** | Technologist degree in Systems Analysis and Development. |
