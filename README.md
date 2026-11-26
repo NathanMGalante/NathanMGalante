@@ -16,7 +16,7 @@
 - **1.000+ agendamentos por mês** sem intervenção manual, com automação na Tarq
 - **App Flutter offline-first** usado em campo sem internet, com sincronização automática
 - **Build a cada merge** no teste fechado da Google Play e no TestFlight, com GitHub Actions
-- **Visão computacional com YOLO**: liderei o projeto de monitoramento por câmeras
+- **Visão computacional com YOLO**: trabalhei com projeto de monitoramento por câmeras
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-moreno-galante-415223190">LinkedIn</a> ·
